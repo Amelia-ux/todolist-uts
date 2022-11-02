@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">todolist-uts</string>
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">Apakah Anda yakin ingin menghapus tugas ini?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 </resources>

@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/melia/AndroidStudioProjects/todolistuts/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/melia/AndroidStudioProjects/todolistuts/app/src/main/res/drawable/btn_background.xml" value="0.1875" />
+        <entry key="..\:/Users/melia/AndroidStudioProjects/todolistuts/app/src/main/res/drawable/btn_border.xml" value="0.1875" />
+        <entry key="..\:/Users/melia/AndroidStudioProjects/todolistuts/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1875" />
+        <entry key="..\:/Users/melia/AndroidStudioProjects/todolistuts/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1875" />
+        <entry key="..\:/Users/melia/AndroidStudioProjects/todolistuts/app/src/main/res/drawable/ic_baseline_note_add_24.xml" value="0.1875" />
+        <entry key="..\:/Users/melia/AndroidStudioProjects/todolistuts/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/melia/AndroidStudioProjects/todolistuts/app/src/main/res/layout/activity_task.xml" value="0.33" />
+        <entry key="..\:/Users/melia/AndroidStudioProjects/todolistuts/app/src/main/res/layout/content_layout.xml" value="0.5" />
+        <entry key="..\:/Users/melia/AndroidStudioProjects/todolistuts/app/src/main/res/menu/menu.xml" value="0.2" />
       </map>
     </option>
   </component>
